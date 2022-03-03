@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\bin\Debug\net6.0\CSharpExplicitInterfaces.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\bin\Debug\net6.0\CSharpExplicitInterfaces.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\bin\Debug\net6.0\CSharpExplicitInterfaces.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\bin\Debug\net6.0\CSharpExplicitInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\bin\Debug\net6.0\CSharpExplicitInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\refint\CSharpExplicitInterfaces.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\CSharpExplicitInterfaces.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpExplicitInterfaces\obj\Debug\net6.0\ref\CSharpExplicitInterfaces.dll
